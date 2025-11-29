@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^5.1.0",
+    "node": "^22.21.0"
+  },
+  "name": "file-based-todo-app",
+  "version": "1.0.0",
+  "description": "It's an todo app which is file-based",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdityaJRDev/Backend-practices.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdityaJRDev/Backend-practices/issues"
+  },
+  "homepage": "https://github.com/AdityaJRDev/Backend-practices#readme"
+}
