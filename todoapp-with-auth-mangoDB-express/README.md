@@ -1,10 +1,3 @@
-Here is a professional and comprehensive **README.md** file tailored exactly to the code you provided. It includes setup instructions, API documentation, and the database structure.
-
-You can create a file named `README.md` in your project folder and paste this content inside.
-
------
-
-````markdown
 # Todo App Backend API
 
 A simple RESTful API built with Node.js, Express, and MongoDB that allows users to register, log in, and manage a personal list of Todos.
