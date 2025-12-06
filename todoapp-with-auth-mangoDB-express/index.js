@@ -9,7 +9,7 @@ const app = express();
 app.use(express.json());
 
 mongoose.connect(
-  "mongodb+srv://jraditya_db_user:e15VXH9Nfr9t8qE4@cluster0.fxnhwht.mongodb.net/todo-aditya-2222"
+  "mongodb+srv://jraditya_db_user:jhPBy26PG4JJH2xq@cluster0.fxnhwht.mongodb.net/todo-aditya-2222"
 );
 
 app.post("/signup", async (req, res) => {
